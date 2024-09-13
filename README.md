@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Leider2210
-- 👀 I’m interested in aprender
-- 🌱 I’m currently learning futbolista
+- 👀 I’m interested in aprender programacion
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
